@@ -4,6 +4,9 @@ _Please customize this page to introduce yourself to the Lightcode community._
 _Use Markdown syntax to format your text and add links, images, and other media._
 
 # About Me 
+
+My name is Johana Bergmann, I am a certified vibe coder. 
+
 __Drop your photo here:__
 ![Me]()
 
