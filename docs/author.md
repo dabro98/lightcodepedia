@@ -4,10 +4,6 @@ _Please customize this page to introduce yourself to the Lightcode community._
 _Use Markdown syntax to format your text and add links, images, and other media._
 
 # About Me 
-__Drop your photo here:__
-![Me]()
-
-
 
 I'm Test123, a professional vibe coder based in Graz. I have a passion for [Your Interests or Hobbies].
 
