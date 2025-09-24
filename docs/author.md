@@ -5,7 +5,7 @@ _Use Markdown syntax to format your text and add links, images, and other media.
 
 # About Me 
 
-I'm Test123, a professional vibe coder based in Graz. I have a passion for [Your Interests or Hobbies].
+I'm Johanna Bergmann, a professional vibe coder based in Graz. I have a passion for Alcohol.
 
 # My journey
 My journey with Lightcode began when I applied for Lightcode Academy.
